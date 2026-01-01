@@ -1,0 +1,1661 @@
+{
+    "Burundi": {
+        "Total Population (thousands)": 13689.0,
+        "Male Population (thousands)": 6800.0,
+        "Female Population (thousands)": 6889.0,
+        "Male Life Expectancy (years)": 61.6,
+        "Female Life Expectancy (years)": 65.7
+    },
+    "Comoros": {
+        "Total Population (thousands)": 850.0,
+        "Male Population (thousands)": 428.0,
+        "Female Population (thousands)": 423.0,
+        "Male Life Expectancy (years)": 64.8,
+        "Female Life Expectancy (years)": 68.9
+    },
+    "Djibouti": {
+        "Total Population (thousands)": 1153.0,
+        "Male Population (thousands)": 572.0,
+        "Female Population (thousands)": 581.0,
+        "Male Life Expectancy (years)": 63.5,
+        "Female Life Expectancy (years)": 68.5
+    },
+    "Eritrea": {
+        "Total Population (thousands)": 3470.0,
+        "Male Population (thousands)": 1713.0,
+        "Female Population (thousands)": 1758.0,
+        "Male Life Expectancy (years)": 66.5,
+        "Female Life Expectancy (years)": 70.7
+    },
+    "Ethiopia": {
+        "Total Population (thousands)": 128692.0,
+        "Male Population (thousands)": 64486.0,
+        "Female Population (thousands)": 64206.0,
+        "Male Life Expectancy (years)": 64.1,
+        "Female Life Expectancy (years)": 70.7
+    },
+    "Kenya": {
+        "Total Population (thousands)": 55339.0,
+        "Male Population (thousands)": 27517.0,
+        "Female Population (thousands)": 27822.0,
+        "Male Life Expectancy (years)": 61.5,
+        "Female Life Expectancy (years)": 65.9
+    },
+    "Madagascar": {
+        "Total Population (thousands)": 31196.0,
+        "Male Population (thousands)": 15647.0,
+        "Female Population (thousands)": 15549.0,
+        "Male Life Expectancy (years)": 61.9,
+        "Female Life Expectancy (years)": 65.4
+    },
+    "Malawi": {
+        "Total Population (thousands)": 21104.0,
+        "Male Population (thousands)": 10295.0,
+        "Female Population (thousands)": 10809.0,
+        "Male Life Expectancy (years)": 64.1,
+        "Female Life Expectancy (years)": 70.6
+    },
+    "Mauritius": {
+        "Total Population (thousands)": 1274.0,
+        "Male Population (thousands)": 637.0,
+        "Female Population (thousands)": 637.0,
+        "Male Life Expectancy (years)": 71.9,
+        "Female Life Expectancy (years)": 78.2
+    },
+    "Mayotte": {
+        "Total Population (thousands)": 316.0,
+        "Male Population (thousands)": 151.0,
+        "Female Population (thousands)": 165.0,
+        "Male Life Expectancy (years)": 74.1,
+        "Female Life Expectancy (years)": 78.3
+    },
+    "Mozambique": {
+        "Total Population (thousands)": 33635.0,
+        "Male Population (thousands)": 16307.0,
+        "Female Population (thousands)": 17328.0,
+        "Male Life Expectancy (years)": 60.3,
+        "Female Life Expectancy (years)": 66.5
+    },
+    "Réunion": {
+        "Total Population (thousands)": 875.0,
+        "Male Population (thousands)": 416.0,
+        "Female Population (thousands)": 459.0,
+        "Male Life Expectancy (years)": 80.5,
+        "Female Life Expectancy (years)": 86.3
+    },
+    "Rwanda": {
+        "Total Population (thousands)": 13954.0,
+        "Male Population (thousands)": 6802.0,
+        "Female Population (thousands)": 7152.0,
+        "Male Life Expectancy (years)": 65.5,
+        "Female Life Expectancy (years)": 69.9
+    },
+    "Seychelles": {
+        "Total Population (thousands)": 128.0,
+        "Male Population (thousands)": 71.0,
+        "Female Population (thousands)": 57.0,
+        "Male Life Expectancy (years)": 69.9,
+        "Female Life Expectancy (years)": 76.5
+    },
+    "Somalia": {
+        "Total Population (thousands)": 18359.0,
+        "Male Population (thousands)": 9198.0,
+        "Female Population (thousands)": 9161.0,
+        "Male Life Expectancy (years)": 56.4,
+        "Female Life Expectancy (years)": 61.4
+    },
+    "South Sudan": {
+        "Total Population (thousands)": 11483.0,
+        "Male Population (thousands)": 5649.0,
+        "Female Population (thousands)": 5835.0,
+        "Male Life Expectancy (years)": 54.6,
+        "Female Life Expectancy (years)": 60.6
+    },
+    "Uganda": {
+        "Total Population (thousands)": 48657.0,
+        "Male Population (thousands)": 24123.0,
+        "Female Population (thousands)": 24534.0,
+        "Male Life Expectancy (years)": 65.3,
+        "Female Life Expectancy (years)": 71.1
+    },
+    "United Republic of Tanzania": {
+        "Total Population (thousands)": 66618.0,
+        "Male Population (thousands)": 33014.0,
+        "Female Population (thousands)": 33604.0,
+        "Male Life Expectancy (years)": 64.2,
+        "Female Life Expectancy (years)": 69.8
+    },
+    "Zambia": {
+        "Total Population (thousands)": 20724.0,
+        "Male Population (thousands)": 10256.0,
+        "Female Population (thousands)": 10468.0,
+        "Male Life Expectancy (years)": 63.9,
+        "Female Life Expectancy (years)": 68.7
+    },
+    "Zimbabwe": {
+        "Total Population (thousands)": 16341.0,
+        "Male Population (thousands)": 7781.0,
+        "Female Population (thousands)": 8560.0,
+        "Male Life Expectancy (years)": 60.2,
+        "Female Life Expectancy (years)": 65.0
+    },
+    "Angola": {
+        "Total Population (thousands)": 36750.0,
+        "Male Population (thousands)": 18182.0,
+        "Female Population (thousands)": 18568.0,
+        "Male Life Expectancy (years)": 62.1,
+        "Female Life Expectancy (years)": 67.1
+    },
+    "Cameroon": {
+        "Total Population (thousands)": 28373.0,
+        "Male Population (thousands)": 14141.0,
+        "Female Population (thousands)": 14232.0,
+        "Male Life Expectancy (years)": 61.5,
+        "Female Life Expectancy (years)": 65.9
+    },
+    "Central African Republic": {
+        "Total Population (thousands)": 5152.0,
+        "Male Population (thousands)": 2468.0,
+        "Female Population (thousands)": 2685.0,
+        "Male Life Expectancy (years)": 55.3,
+        "Female Life Expectancy (years)": 59.3
+    },
+    "Chad": {
+        "Total Population (thousands)": 19319.0,
+        "Male Population (thousands)": 9691.0,
+        "Female Population (thousands)": 9628.0,
+        "Male Life Expectancy (years)": 53.2,
+        "Female Life Expectancy (years)": 57.0
+    },
+    "Congo": {
+        "Total Population (thousands)": 6183.0,
+        "Male Population (thousands)": 3091.0,
+        "Female Population (thousands)": 3092.0,
+        "Male Life Expectancy (years)": 64.1,
+        "Female Life Expectancy (years)": 67.5
+    },
+    "Democratic Republic of the Congo": {
+        "Total Population (thousands)": 105790.0,
+        "Male Population (thousands)": 52484.0,
+        "Female Population (thousands)": 53306.0,
+        "Male Life Expectancy (years)": 59.8,
+        "Female Life Expectancy (years)": 64.0
+    },
+    "Equatorial Guinea": {
+        "Total Population (thousands)": 1848.0,
+        "Male Population (thousands)": 975.0,
+        "Female Population (thousands)": 873.0,
+        "Male Life Expectancy (years)": 62.0,
+        "Female Life Expectancy (years)": 65.7
+    },
+    "Gabon": {
+        "Total Population (thousands)": 2485.0,
+        "Male Population (thousands)": 1262.0,
+        "Female Population (thousands)": 1223.0,
+        "Male Life Expectancy (years)": 65.9,
+        "Female Life Expectancy (years)": 71.1
+    },
+    "Sao Tome and Principe": {
+        "Total Population (thousands)": 231.0,
+        "Male Population (thousands)": 115.0,
+        "Female Population (thousands)": 116.0,
+        "Male Life Expectancy (years)": 66.2,
+        "Female Life Expectancy (years)": 73.7
+    },
+    "Algeria": {
+        "Total Population (thousands)": 46164.0,
+        "Male Population (thousands)": 23549.0,
+        "Female Population (thousands)": 22615.0,
+        "Male Life Expectancy (years)": 74.9,
+        "Female Life Expectancy (years)": 77.7
+    },
+    "Egypt": {
+        "Total Population (thousands)": 114536.0,
+        "Male Population (thousands)": 57831.0,
+        "Female Population (thousands)": 56705.0,
+        "Male Life Expectancy (years)": 69.5,
+        "Female Life Expectancy (years)": 73.8
+    },
+    "Libya": {
+        "Total Population (thousands)": 7306.0,
+        "Male Population (thousands)": 3715.0,
+        "Female Population (thousands)": 3591.0,
+        "Male Life Expectancy (years)": 68.3,
+        "Female Life Expectancy (years)": 70.4
+    },
+    "Morocco": {
+        "Total Population (thousands)": 37713.0,
+        "Male Population (thousands)": 19023.0,
+        "Female Population (thousands)": 18689.0,
+        "Male Life Expectancy (years)": 73.2,
+        "Female Life Expectancy (years)": 77.6
+    },
+    "Sudan": {
+        "Total Population (thousands)": 50043.0,
+        "Male Population (thousands)": 24822.0,
+        "Female Population (thousands)": 25221.0,
+        "Male Life Expectancy (years)": 63.3,
+        "Female Life Expectancy (years)": 69.6
+    },
+    "Tunisia": {
+        "Total Population (thousands)": 12200.0,
+        "Male Population (thousands)": 6033.0,
+        "Female Population (thousands)": 6167.0,
+        "Male Life Expectancy (years)": 73.9,
+        "Female Life Expectancy (years)": 79.1
+    },
+    "Western Sahara": {
+        "Total Population (thousands)": 580.0,
+        "Male Population (thousands)": 320.0,
+        "Female Population (thousands)": 260.0,
+        "Male Life Expectancy (years)": 69.7,
+        "Female Life Expectancy (years)": 73.5
+    },
+    "Botswana": {
+        "Total Population (thousands)": 2480.0,
+        "Male Population (thousands)": 1237.0,
+        "Female Population (thousands)": 1243.0,
+        "Male Life Expectancy (years)": 66.7,
+        "Female Life Expectancy (years)": 71.7
+    },
+    "Eswatini": {
+        "Total Population (thousands)": 1231.0,
+        "Male Population (thousands)": 604.0,
+        "Female Population (thousands)": 626.0,
+        "Male Life Expectancy (years)": 61.2,
+        "Female Life Expectancy (years)": 67.0
+    },
+    "Lesotho": {
+        "Total Population (thousands)": 2311.0,
+        "Male Population (thousands)": 1126.0,
+        "Female Population (thousands)": 1186.0,
+        "Male Life Expectancy (years)": 54.6,
+        "Female Life Expectancy (years)": 60.0
+    },
+    "Namibia": {
+        "Total Population (thousands)": 2963.0,
+        "Male Population (thousands)": 1447.0,
+        "Female Population (thousands)": 1516.0,
+        "Male Life Expectancy (years)": 63.3,
+        "Female Life Expectancy (years)": 71.3
+    },
+    "South Africa": {
+        "Total Population (thousands)": 63212.0,
+        "Male Population (thousands)": 30750.0,
+        "Female Population (thousands)": 32462.0,
+        "Male Life Expectancy (years)": 62.6,
+        "Female Life Expectancy (years)": 69.6
+    },
+    "Benin": {
+        "Total Population (thousands)": 14111.0,
+        "Male Population (thousands)": 7075.0,
+        "Female Population (thousands)": 7036.0,
+        "Male Life Expectancy (years)": 59.3,
+        "Female Life Expectancy (years)": 62.2
+    },
+    "Burkina Faso": {
+        "Total Population (thousands)": 23026.0,
+        "Male Population (thousands)": 11469.0,
+        "Female Population (thousands)": 11557.0,
+        "Male Life Expectancy (years)": 58.9,
+        "Female Life Expectancy (years)": 63.2
+    },
+    "Cabo Verde": {
+        "Total Population (thousands)": 522.0,
+        "Male Population (thousands)": 266.0,
+        "Female Population (thousands)": 257.0,
+        "Male Life Expectancy (years)": 72.9,
+        "Female Life Expectancy (years)": 79.2
+    },
+    "Côte d'Ivoire": {
+        "Total Population (thousands)": 31166.0,
+        "Male Population (thousands)": 15870.0,
+        "Female Population (thousands)": 15296.0,
+        "Male Life Expectancy (years)": 60.0,
+        "Female Life Expectancy (years)": 64.1
+    },
+    "Gambia": {
+        "Total Population (thousands)": 2698.0,
+        "Male Population (thousands)": 1343.0,
+        "Female Population (thousands)": 1355.0,
+        "Male Life Expectancy (years)": 64.2,
+        "Female Life Expectancy (years)": 67.5
+    },
+    "Ghana": {
+        "Total Population (thousands)": 33788.0,
+        "Male Population (thousands)": 16878.0,
+        "Female Population (thousands)": 16910.0,
+        "Male Life Expectancy (years)": 63.1,
+        "Female Life Expectancy (years)": 67.9
+    },
+    "Guinea": {
+        "Total Population (thousands)": 14405.0,
+        "Male Population (thousands)": 7123.0,
+        "Female Population (thousands)": 7283.0,
+        "Male Life Expectancy (years)": 59.5,
+        "Female Life Expectancy (years)": 61.9
+    },
+    "Guinea-Bissau": {
+        "Total Population (thousands)": 2153.0,
+        "Male Population (thousands)": 1064.0,
+        "Female Population (thousands)": 1090.0,
+        "Male Life Expectancy (years)": 61.7,
+        "Female Life Expectancy (years)": 66.4
+    },
+    "Liberia": {
+        "Total Population (thousands)": 5493.0,
+        "Male Population (thousands)": 2741.0,
+        "Female Population (thousands)": 2752.0,
+        "Male Life Expectancy (years)": 60.9,
+        "Female Life Expectancy (years)": 63.4
+    },
+    "Mali": {
+        "Total Population (thousands)": 23769.0,
+        "Male Population (thousands)": 11995.0,
+        "Female Population (thousands)": 11774.0,
+        "Male Life Expectancy (years)": 59.0,
+        "Female Life Expectancy (years)": 61.9
+    },
+    "Mauritania": {
+        "Total Population (thousands)": 5022.0,
+        "Male Population (thousands)": 2462.0,
+        "Female Population (thousands)": 2560.0,
+        "Male Life Expectancy (years)": 66.5,
+        "Female Life Expectancy (years)": 70.5
+    },
+    "Niger": {
+        "Total Population (thousands)": 26160.0,
+        "Male Population (thousands)": 13282.0,
+        "Female Population (thousands)": 12878.0,
+        "Male Life Expectancy (years)": 60.3,
+        "Female Life Expectancy (years)": 62.1
+    },
+    "Nigeria": {
+        "Total Population (thousands)": 227883.0,
+        "Male Population (thousands)": 115207.0,
+        "Female Population (thousands)": 112676.0,
+        "Male Life Expectancy (years)": 54.2,
+        "Female Life Expectancy (years)": 54.7
+    },
+    "Saint Helena": {
+        "Total Population (thousands)": 5.0,
+        "Male Population (thousands)": 3.0,
+        "Female Population (thousands)": 3.0,
+        "Male Life Expectancy (years)": 73.9,
+        "Female Life Expectancy (years)": 80.6
+    },
+    "Senegal": {
+        "Total Population (thousands)": 18078.0,
+        "Male Population (thousands)": 9198.0,
+        "Female Population (thousands)": 8880.0,
+        "Male Life Expectancy (years)": 66.8,
+        "Female Life Expectancy (years)": 70.8
+    },
+    "Sierra Leone": {
+        "Total Population (thousands)": 8461.0,
+        "Male Population (thousands)": 4219.0,
+        "Female Population (thousands)": 4241.0,
+        "Male Life Expectancy (years)": 60.1,
+        "Female Life Expectancy (years)": 63.5
+    },
+    "Togo": {
+        "Total Population (thousands)": 9304.0,
+        "Male Population (thousands)": 4682.0,
+        "Female Population (thousands)": 4623.0,
+        "Male Life Expectancy (years)": 62.5,
+        "Female Life Expectancy (years)": 62.9
+    },
+    "Kazakhstan": {
+        "Total Population (thousands)": 20330.0,
+        "Male Population (thousands)": 9897.0,
+        "Female Population (thousands)": 10433.0,
+        "Male Life Expectancy (years)": 70.1,
+        "Female Life Expectancy (years)": 78.4
+    },
+    "Kyrgyzstan": {
+        "Total Population (thousands)": 7074.0,
+        "Male Population (thousands)": 3497.0,
+        "Female Population (thousands)": 3576.0,
+        "Male Life Expectancy (years)": 68.2,
+        "Female Life Expectancy (years)": 75.2
+    },
+    "Tajikistan": {
+        "Total Population (thousands)": 10390.0,
+        "Male Population (thousands)": 5101.0,
+        "Female Population (thousands)": 5288.0,
+        "Male Life Expectancy (years)": 69.6,
+        "Female Life Expectancy (years)": 74.0
+    },
+    "Turkmenistan": {
+        "Total Population (thousands)": 7364.0,
+        "Male Population (thousands)": 3611.0,
+        "Female Population (thousands)": 3753.0,
+        "Male Life Expectancy (years)": 66.9,
+        "Female Life Expectancy (years)": 72.8
+    },
+    "Uzbekistan": {
+        "Total Population (thousands)": 35652.0,
+        "Male Population (thousands)": 17982.0,
+        "Female Population (thousands)": 17670.0,
+        "Male Life Expectancy (years)": 69.5,
+        "Female Life Expectancy (years)": 75.4
+    },
+    "China": {
+        "Total Population (thousands)": 1422585.0,
+        "Male Population (thousands)": 725223.0,
+        "Female Population (thousands)": 697362.0,
+        "Male Life Expectancy (years)": 75.2,
+        "Female Life Expectancy (years)": 80.9
+    },
+    "China, Hong Kong SAR": {
+        "Total Population (thousands)": 7443.0,
+        "Male Population (thousands)": 3355.0,
+        "Female Population (thousands)": 4088.0,
+        "Male Life Expectancy (years)": 82.8,
+        "Female Life Expectancy (years)": 88.1
+    },
+    "China, Macao SAR": {
+        "Total Population (thousands)": 714.0,
+        "Male Population (thousands)": 329.0,
+        "Female Population (thousands)": 385.0,
+        "Male Life Expectancy (years)": 80.8,
+        "Female Life Expectancy (years)": 85.2
+    },
+    "China, Taiwan Province of China": {
+        "Total Population (thousands)": 23317.0,
+        "Male Population (thousands)": 11554.0,
+        "Female Population (thousands)": 11764.0,
+        "Male Life Expectancy (years)": 77.6,
+        "Female Life Expectancy (years)": 83.6
+    },
+    "Dem. People's Republic of Korea": {
+        "Total Population (thousands)": 26418.0,
+        "Male Population (thousands)": 13058.0,
+        "Female Population (thousands)": 13360.0,
+        "Male Life Expectancy (years)": 71.5,
+        "Female Life Expectancy (years)": 75.7
+    },
+    "Japan": {
+        "Total Population (thousands)": 124371.0,
+        "Male Population (thousands)": 60700.0,
+        "Female Population (thousands)": 63671.0,
+        "Male Life Expectancy (years)": 81.7,
+        "Female Life Expectancy (years)": 87.7
+    },
+    "Mongolia": {
+        "Total Population (thousands)": 3432.0,
+        "Male Population (thousands)": 1712.0,
+        "Female Population (thousands)": 1720.0,
+        "Male Life Expectancy (years)": 67.2,
+        "Female Life Expectancy (years)": 76.4
+    },
+    "Republic of Korea": {
+        "Total Population (thousands)": 51749.0,
+        "Male Population (thousands)": 25832.0,
+        "Female Population (thousands)": 25917.0,
+        "Male Life Expectancy (years)": 81.2,
+        "Female Life Expectancy (years)": 87.2
+    },
+    "Afghanistan": {
+        "Total Population (thousands)": 41455.0,
+        "Male Population (thousands)": 20924.0,
+        "Female Population (thousands)": 20531.0,
+        "Male Life Expectancy (years)": 64.5,
+        "Female Life Expectancy (years)": 67.5
+    },
+    "Bangladesh": {
+        "Total Population (thousands)": 171467.0,
+        "Male Population (thousands)": 84358.0,
+        "Female Population (thousands)": 87109.0,
+        "Male Life Expectancy (years)": 73.0,
+        "Female Life Expectancy (years)": 76.4
+    },
+    "Bhutan": {
+        "Total Population (thousands)": 786.0,
+        "Male Population (thousands)": 421.0,
+        "Female Population (thousands)": 366.0,
+        "Male Life Expectancy (years)": 71.3,
+        "Female Life Expectancy (years)": 75.0
+    },
+    "India": {
+        "Total Population (thousands)": 1438070.0,
+        "Male Population (thousands)": 741883.0,
+        "Female Population (thousands)": 696186.0,
+        "Male Life Expectancy (years)": 70.5,
+        "Female Life Expectancy (years)": 73.6
+    },
+    "Iran (Islamic Republic of)": {
+        "Total Population (thousands)": 90609.0,
+        "Male Population (thousands)": 46062.0,
+        "Female Population (thousands)": 44547.0,
+        "Male Life Expectancy (years)": 75.8,
+        "Female Life Expectancy (years)": 79.6
+    },
+    "Maldives": {
+        "Total Population (thousands)": 526.0,
+        "Male Population (thousands)": 327.0,
+        "Female Population (thousands)": 199.0,
+        "Male Life Expectancy (years)": 79.7,
+        "Female Life Expectancy (years)": 82.8
+    },
+    "Nepal": {
+        "Total Population (thousands)": 29695.0,
+        "Male Population (thousands)": 14279.0,
+        "Female Population (thousands)": 15415.0,
+        "Male Life Expectancy (years)": 68.8,
+        "Female Life Expectancy (years)": 71.8
+    },
+    "Pakistan": {
+        "Total Population (thousands)": 247504.0,
+        "Male Population (thousands)": 125731.0,
+        "Female Population (thousands)": 121773.0,
+        "Male Life Expectancy (years)": 65.3,
+        "Female Life Expectancy (years)": 70.2
+    },
+    "Sri Lanka": {
+        "Total Population (thousands)": 22972.0,
+        "Male Population (thousands)": 11116.0,
+        "Female Population (thousands)": 11856.0,
+        "Male Life Expectancy (years)": 74.2,
+        "Female Life Expectancy (years)": 80.6
+    },
+    "Brunei Darussalam": {
+        "Total Population (thousands)": 459.0,
+        "Male Population (thousands)": 244.0,
+        "Female Population (thousands)": 215.0,
+        "Male Life Expectancy (years)": 73.3,
+        "Female Life Expectancy (years)": 77.6
+    },
+    "Cambodia": {
+        "Total Population (thousands)": 17424.0,
+        "Male Population (thousands)": 8534.0,
+        "Female Population (thousands)": 8890.0,
+        "Male Life Expectancy (years)": 68.0,
+        "Female Life Expectancy (years)": 73.2
+    },
+    "Indonesia": {
+        "Total Population (thousands)": 281190.0,
+        "Male Population (thousands)": 141256.0,
+        "Female Population (thousands)": 139934.0,
+        "Male Life Expectancy (years)": 69.0,
+        "Female Life Expectancy (years)": 73.3
+    },
+    "Lao People's Democratic Republic": {
+        "Total Population (thousands)": 7665.0,
+        "Male Population (thousands)": 3852.0,
+        "Female Population (thousands)": 3813.0,
+        "Male Life Expectancy (years)": 66.8,
+        "Female Life Expectancy (years)": 71.3
+    },
+    "Malaysia": {
+        "Total Population (thousands)": 35126.0,
+        "Male Population (thousands)": 18410.0,
+        "Female Population (thousands)": 16716.0,
+        "Male Life Expectancy (years)": 74.3,
+        "Female Life Expectancy (years)": 79.4
+    },
+    "Myanmar": {
+        "Total Population (thousands)": 54134.0,
+        "Male Population (thousands)": 26956.0,
+        "Female Population (thousands)": 27178.0,
+        "Male Life Expectancy (years)": 63.8,
+        "Female Life Expectancy (years)": 70.2
+    },
+    "Philippines": {
+        "Total Population (thousands)": 114891.0,
+        "Male Population (thousands)": 57311.0,
+        "Female Population (thousands)": 57580.0,
+        "Male Life Expectancy (years)": 66.9,
+        "Female Life Expectancy (years)": 72.8
+    },
+    "Singapore": {
+        "Total Population (thousands)": 5789.0,
+        "Male Population (thousands)": 2992.0,
+        "Female Population (thousands)": 2797.0,
+        "Male Life Expectancy (years)": 81.2,
+        "Female Life Expectancy (years)": 86.2
+    },
+    "Thailand": {
+        "Total Population (thousands)": 71702.0,
+        "Male Population (thousands)": 34950.0,
+        "Female Population (thousands)": 36752.0,
+        "Male Life Expectancy (years)": 72.2,
+        "Female Life Expectancy (years)": 80.9
+    },
+    "Timor-Leste": {
+        "Total Population (thousands)": 1384.0,
+        "Male Population (thousands)": 698.0,
+        "Female Population (thousands)": 687.0,
+        "Male Life Expectancy (years)": 66.1,
+        "Female Life Expectancy (years)": 69.4
+    },
+    "Viet Nam": {
+        "Total Population (thousands)": 100352.0,
+        "Male Population (thousands)": 49151.0,
+        "Female Population (thousands)": 51201.0,
+        "Male Life Expectancy (years)": 69.9,
+        "Female Life Expectancy (years)": 79.3
+    },
+    "Armenia": {
+        "Total Population (thousands)": 2943.0,
+        "Male Population (thousands)": 1365.0,
+        "Female Population (thousands)": 1578.0,
+        "Male Life Expectancy (years)": 71.4,
+        "Female Life Expectancy (years)": 79.5
+    },
+    "Azerbaijan": {
+        "Total Population (thousands)": 10318.0,
+        "Male Population (thousands)": 5056.0,
+        "Female Population (thousands)": 5262.0,
+        "Male Life Expectancy (years)": 71.6,
+        "Female Life Expectancy (years)": 77.1
+    },
+    "Bahrain": {
+        "Total Population (thousands)": 1570.0,
+        "Male Population (thousands)": 974.0,
+        "Female Population (thousands)": 595.0,
+        "Male Life Expectancy (years)": 80.7,
+        "Female Life Expectancy (years)": 82.0
+    },
+    "Cyprus": {
+        "Total Population (thousands)": 1345.0,
+        "Male Population (thousands)": 678.0,
+        "Female Population (thousands)": 667.0,
+        "Male Life Expectancy (years)": 79.6,
+        "Female Life Expectancy (years)": 83.7
+    },
+    "Georgia": {
+        "Total Population (thousands)": 3807.0,
+        "Male Population (thousands)": 1774.0,
+        "Female Population (thousands)": 2033.0,
+        "Male Life Expectancy (years)": 69.6,
+        "Female Life Expectancy (years)": 79.1
+    },
+    "Iraq": {
+        "Total Population (thousands)": 45074.0,
+        "Male Population (thousands)": 22614.0,
+        "Female Population (thousands)": 22460.0,
+        "Male Life Expectancy (years)": 70.4,
+        "Female Life Expectancy (years)": 74.1
+    },
+    "Israel": {
+        "Total Population (thousands)": 9256.0,
+        "Male Population (thousands)": 4607.0,
+        "Female Population (thousands)": 4649.0,
+        "Male Life Expectancy (years)": 80.2,
+        "Female Life Expectancy (years)": 84.6
+    },
+    "Jordan": {
+        "Total Population (thousands)": 11439.0,
+        "Male Population (thousands)": 5903.0,
+        "Female Population (thousands)": 5536.0,
+        "Male Life Expectancy (years)": 75.7,
+        "Female Life Expectancy (years)": 80.2
+    },
+    "Kuwait": {
+        "Total Population (thousands)": 4839.0,
+        "Male Population (thousands)": 2959.0,
+        "Female Population (thousands)": 1880.0,
+        "Male Life Expectancy (years)": 79.3,
+        "Female Life Expectancy (years)": 81.8
+    },
+    "Lebanon": {
+        "Total Population (thousands)": 5773.0,
+        "Male Population (thousands)": 2807.0,
+        "Female Population (thousands)": 2967.0,
+        "Male Life Expectancy (years)": 75.7,
+        "Female Life Expectancy (years)": 79.7
+    },
+    "Oman": {
+        "Total Population (thousands)": 5049.0,
+        "Male Population (thousands)": 3134.0,
+        "Female Population (thousands)": 1915.0,
+        "Male Life Expectancy (years)": 78.5,
+        "Female Life Expectancy (years)": 81.9
+    },
+    "Qatar": {
+        "Total Population (thousands)": 2979.0,
+        "Male Population (thousands)": 2131.0,
+        "Female Population (thousands)": 849.0,
+        "Male Life Expectancy (years)": 81.6,
+        "Female Life Expectancy (years)": 83.4
+    },
+    "Saudi Arabia": {
+        "Total Population (thousands)": 33264.0,
+        "Male Population (thousands)": 20176.0,
+        "Female Population (thousands)": 13088.0,
+        "Male Life Expectancy (years)": 77.1,
+        "Female Life Expectancy (years)": 81.2
+    },
+    "State of Palestine": {
+        "Total Population (thousands)": 5409.0,
+        "Male Population (thousands)": 2688.0,
+        "Female Population (thousands)": 2721.0,
+        "Male Life Expectancy (years)": 59.7,
+        "Female Life Expectancy (years)": 71.5
+    },
+    "Syrian Arab Republic": {
+        "Total Population (thousands)": 23595.0,
+        "Male Population (thousands)": 11796.0,
+        "Female Population (thousands)": 11799.0,
+        "Male Life Expectancy (years)": 69.8,
+        "Female Life Expectancy (years)": 74.4
+    },
+    "Türkiye": {
+        "Total Population (thousands)": 87271.0,
+        "Male Population (thousands)": 43578.0,
+        "Female Population (thousands)": 43693.0,
+        "Male Life Expectancy (years)": 74.5,
+        "Female Life Expectancy (years)": 79.9
+    },
+    "United Arab Emirates": {
+        "Total Population (thousands)": 10642.0,
+        "Male Population (thousands)": 6812.0,
+        "Female Population (thousands)": 3830.0,
+        "Male Life Expectancy (years)": 82.0,
+        "Female Life Expectancy (years)": 84.2
+    },
+    "Yemen": {
+        "Total Population (thousands)": 39391.0,
+        "Male Population (thousands)": 19950.0,
+        "Female Population (thousands)": 19440.0,
+        "Male Life Expectancy (years)": 67.2,
+        "Female Life Expectancy (years)": 71.4
+    },
+    "Belarus": {
+        "Total Population (thousands)": 9116.0,
+        "Male Population (thousands)": 4248.0,
+        "Female Population (thousands)": 4867.0,
+        "Male Life Expectancy (years)": 69.5,
+        "Female Life Expectancy (years)": 79.1
+    },
+    "Bulgaria": {
+        "Total Population (thousands)": 6796.0,
+        "Male Population (thousands)": 3289.0,
+        "Female Population (thousands)": 3507.0,
+        "Male Life Expectancy (years)": 72.2,
+        "Female Life Expectancy (years)": 79.2
+    },
+    "Czechia": {
+        "Total Population (thousands)": 10810.0,
+        "Male Population (thousands)": 5330.0,
+        "Female Population (thousands)": 5480.0,
+        "Male Life Expectancy (years)": 77.0,
+        "Female Life Expectancy (years)": 82.6
+    },
+    "Hungary": {
+        "Total Population (thousands)": 9686.0,
+        "Male Population (thousands)": 4648.0,
+        "Female Population (thousands)": 5038.0,
+        "Male Life Expectancy (years)": 73.7,
+        "Female Life Expectancy (years)": 80.2
+    },
+    "Poland": {
+        "Total Population (thousands)": 38763.0,
+        "Male Population (thousands)": 18785.0,
+        "Female Population (thousands)": 19978.0,
+        "Male Life Expectancy (years)": 74.9,
+        "Female Life Expectancy (years)": 82.4
+    },
+    "Republic of Moldova": {
+        "Total Population (thousands)": 3067.0,
+        "Male Population (thousands)": 1412.0,
+        "Female Population (thousands)": 1655.0,
+        "Male Life Expectancy (years)": 66.6,
+        "Female Life Expectancy (years)": 75.5
+    },
+    "Romania": {
+        "Total Population (thousands)": 19118.0,
+        "Male Population (thousands)": 9260.0,
+        "Female Population (thousands)": 9858.0,
+        "Male Life Expectancy (years)": 72.4,
+        "Female Life Expectancy (years)": 79.6
+    },
+    "Russian Federation": {
+        "Total Population (thousands)": 145441.0,
+        "Male Population (thousands)": 67535.0,
+        "Female Population (thousands)": 77905.0,
+        "Male Life Expectancy (years)": 67.3,
+        "Female Life Expectancy (years)": 79.0
+    },
+    "Slovakia": {
+        "Total Population (thousands)": 5518.0,
+        "Male Population (thousands)": 2694.0,
+        "Female Population (thousands)": 2824.0,
+        "Male Life Expectancy (years)": 75.0,
+        "Female Life Expectancy (years)": 81.6
+    },
+    "Ukraine": {
+        "Total Population (thousands)": 37733.0,
+        "Male Population (thousands)": 17544.0,
+        "Female Population (thousands)": 20189.0,
+        "Male Life Expectancy (years)": 66.9,
+        "Female Life Expectancy (years)": 80.2
+    },
+    "Denmark": {
+        "Total Population (thousands)": 5948.0,
+        "Male Population (thousands)": 2957.0,
+        "Female Population (thousands)": 2992.0,
+        "Male Life Expectancy (years)": 80.0,
+        "Female Life Expectancy (years)": 83.9
+    },
+    "Estonia": {
+        "Total Population (thousands)": 1367.0,
+        "Male Population (thousands)": 649.0,
+        "Female Population (thousands)": 718.0,
+        "Male Life Expectancy (years)": 74.9,
+        "Female Life Expectancy (years)": 83.0
+    },
+    "Faroe Islands": {
+        "Total Population (thousands)": 55.0,
+        "Male Population (thousands)": 28.0,
+        "Female Population (thousands)": 26.0,
+        "Male Life Expectancy (years)": 78.2,
+        "Female Life Expectancy (years)": 82.5
+    },
+    "Finland": {
+        "Total Population (thousands)": 5601.0,
+        "Male Population (thousands)": 2768.0,
+        "Female Population (thousands)": 2833.0,
+        "Male Life Expectancy (years)": 79.2,
+        "Female Life Expectancy (years)": 84.7
+    },
+    "Guernsey": {
+        "Total Population (thousands)": 64.0,
+        "Male Population (thousands)": 32.0,
+        "Female Population (thousands)": 32.0,
+        "Male Life Expectancy (years)": 81.0,
+        "Female Life Expectancy (years)": 85.6
+    },
+    "Iceland": {
+        "Total Population (thousands)": 388.0,
+        "Male Population (thousands)": 198.0,
+        "Female Population (thousands)": 189.0,
+        "Male Life Expectancy (years)": 81.0,
+        "Female Life Expectancy (years)": 84.5
+    },
+    "Ireland": {
+        "Total Population (thousands)": 5197.0,
+        "Male Population (thousands)": 2573.0,
+        "Female Population (thousands)": 2624.0,
+        "Male Life Expectancy (years)": 80.4,
+        "Female Life Expectancy (years)": 84.5
+    },
+    "Isle of Man": {
+        "Total Population (thousands)": 84.0,
+        "Male Population (thousands)": 42.0,
+        "Female Population (thousands)": 42.0,
+        "Male Life Expectancy (years)": 78.9,
+        "Female Life Expectancy (years)": 83.1
+    },
+    "Jersey": {
+        "Total Population (thousands)": 104.0,
+        "Male Population (thousands)": 51.0,
+        "Female Population (thousands)": 52.0,
+        "Male Life Expectancy (years)": 77.7,
+        "Female Life Expectancy (years)": 81.8
+    },
+    "Latvia": {
+        "Total Population (thousands)": 1882.0,
+        "Male Population (thousands)": 872.0,
+        "Female Population (thousands)": 1010.0,
+        "Male Life Expectancy (years)": 71.6,
+        "Female Life Expectancy (years)": 80.5
+    },
+    "Lithuania": {
+        "Total Population (thousands)": 2854.0,
+        "Male Population (thousands)": 1346.0,
+        "Female Population (thousands)": 1508.0,
+        "Male Life Expectancy (years)": 71.2,
+        "Female Life Expectancy (years)": 80.7
+    },
+    "Norway": {
+        "Total Population (thousands)": 5519.0,
+        "Male Population (thousands)": 2781.0,
+        "Female Population (thousands)": 2738.0,
+        "Male Life Expectancy (years)": 81.7,
+        "Female Life Expectancy (years)": 84.8
+    },
+    "Sweden": {
+        "Total Population (thousands)": 10551.0,
+        "Male Population (thousands)": 5314.0,
+        "Female Population (thousands)": 5238.0,
+        "Male Life Expectancy (years)": 81.4,
+        "Female Life Expectancy (years)": 85.1
+    },
+    "United Kingdom": {
+        "Total Population (thousands)": 68683.0,
+        "Male Population (thousands)": 33813.0,
+        "Female Population (thousands)": 34870.0,
+        "Male Life Expectancy (years)": 79.4,
+        "Female Life Expectancy (years)": 83.2
+    },
+    "Albania": {
+        "Total Population (thousands)": 2812.0,
+        "Male Population (thousands)": 1390.0,
+        "Female Population (thousands)": 1422.0,
+        "Male Life Expectancy (years)": 77.7,
+        "Female Life Expectancy (years)": 81.4
+    },
+    "Andorra": {
+        "Total Population (thousands)": 81.0,
+        "Male Population (thousands)": 41.0,
+        "Female Population (thousands)": 40.0,
+        "Male Life Expectancy (years)": 82.1,
+        "Female Life Expectancy (years)": 86.1
+    },
+    "Bosnia and Herzegovina": {
+        "Total Population (thousands)": 3185.0,
+        "Male Population (thousands)": 1515.0,
+        "Female Population (thousands)": 1670.0,
+        "Male Life Expectancy (years)": 74.4,
+        "Female Life Expectancy (years)": 80.9
+    },
+    "Croatia": {
+        "Total Population (thousands)": 3896.0,
+        "Male Population (thousands)": 1879.0,
+        "Female Population (thousands)": 2017.0,
+        "Male Life Expectancy (years)": 75.4,
+        "Female Life Expectancy (years)": 81.7
+    },
+    "Gibraltar": {
+        "Total Population (thousands)": 38.0,
+        "Male Population (thousands)": 19.0,
+        "Female Population (thousands)": 19.0,
+        "Male Life Expectancy (years)": 80.9,
+        "Female Life Expectancy (years)": 86.1
+    },
+    "Greece": {
+        "Total Population (thousands)": 10243.0,
+        "Male Population (thousands)": 4961.0,
+        "Female Population (thousands)": 5282.0,
+        "Male Life Expectancy (years)": 79.3,
+        "Female Life Expectancy (years)": 84.3
+    },
+    "Holy See": {
+        "Total Population (thousands)": 0.0,
+        "Male Population (thousands)": 0.0,
+        "Female Population (thousands)": 0.0,
+        "Male Life Expectancy (years)": 80.8,
+        "Female Life Expectancy (years)": 85.1
+    },
+    "Italy": {
+        "Total Population (thousands)": 59499.0,
+        "Male Population (thousands)": 29062.0,
+        "Female Population (thousands)": 30437.0,
+        "Male Life Expectancy (years)": 81.6,
+        "Female Life Expectancy (years)": 85.7
+    },
+    "Kosovo (under UNSC res. 1244)": {
+        "Total Population (thousands)": 1700.0,
+        "Male Population (thousands)": 836.0,
+        "Female Population (thousands)": 864.0,
+        "Male Life Expectancy (years)": 75.8,
+        "Female Life Expectancy (years)": 80.1
+    },
+    "Malta": {
+        "Total Population (thousands)": 533.0,
+        "Male Population (thousands)": 277.0,
+        "Female Population (thousands)": 256.0,
+        "Male Life Expectancy (years)": 81.3,
+        "Female Life Expectancy (years)": 85.3
+    },
+    "Montenegro": {
+        "Total Population (thousands)": 634.0,
+        "Male Population (thousands)": 305.0,
+        "Female Population (thousands)": 329.0,
+        "Male Life Expectancy (years)": 73.7,
+        "Female Life Expectancy (years)": 80.3
+    },
+    "North Macedonia": {
+        "Total Population (thousands)": 1832.0,
+        "Male Population (thousands)": 891.0,
+        "Female Population (thousands)": 941.0,
+        "Male Life Expectancy (years)": 75.1,
+        "Female Life Expectancy (years)": 79.6
+    },
+    "Portugal": {
+        "Total Population (thousands)": 10431.0,
+        "Male Population (thousands)": 4969.0,
+        "Female Population (thousands)": 5462.0,
+        "Male Life Expectancy (years)": 79.4,
+        "Female Life Expectancy (years)": 85.1
+    },
+    "San Marino": {
+        "Total Population (thousands)": 34.0,
+        "Male Population (thousands)": 17.0,
+        "Female Population (thousands)": 17.0,
+        "Male Life Expectancy (years)": 84.2,
+        "Female Life Expectancy (years)": 87.1
+    },
+    "Serbia": {
+        "Total Population (thousands)": 6773.0,
+        "Male Population (thousands)": 3217.0,
+        "Female Population (thousands)": 3557.0,
+        "Male Life Expectancy (years)": 73.5,
+        "Female Life Expectancy (years)": 80.0
+    },
+    "Slovenia": {
+        "Total Population (thousands)": 2118.0,
+        "Male Population (thousands)": 1064.0,
+        "Female Population (thousands)": 1055.0,
+        "Male Life Expectancy (years)": 78.9,
+        "Female Life Expectancy (years)": 84.3
+    },
+    "Spain": {
+        "Total Population (thousands)": 47912.0,
+        "Male Population (thousands)": 23524.0,
+        "Female Population (thousands)": 24387.0,
+        "Male Life Expectancy (years)": 81.0,
+        "Female Life Expectancy (years)": 86.3
+    },
+    "Austria": {
+        "Total Population (thousands)": 9130.0,
+        "Male Population (thousands)": 4494.0,
+        "Female Population (thousands)": 4636.0,
+        "Male Life Expectancy (years)": 79.5,
+        "Female Life Expectancy (years)": 84.3
+    },
+    "Belgium": {
+        "Total Population (thousands)": 11713.0,
+        "Male Population (thousands)": 5774.0,
+        "Female Population (thousands)": 5939.0,
+        "Male Life Expectancy (years)": 79.9,
+        "Female Life Expectancy (years)": 84.3
+    },
+    "France": {
+        "Total Population (thousands)": 66439.0,
+        "Male Population (thousands)": 32202.0,
+        "Female Population (thousands)": 34237.0,
+        "Male Life Expectancy (years)": 80.4,
+        "Female Life Expectancy (years)": 86.1
+    },
+    "Germany": {
+        "Total Population (thousands)": 84548.0,
+        "Male Population (thousands)": 41746.0,
+        "Female Population (thousands)": 42802.0,
+        "Male Life Expectancy (years)": 79.0,
+        "Female Life Expectancy (years)": 83.8
+    },
+    "Liechtenstein": {
+        "Total Population (thousands)": 40.0,
+        "Male Population (thousands)": 20.0,
+        "Female Population (thousands)": 20.0,
+        "Male Life Expectancy (years)": 81.8,
+        "Female Life Expectancy (years)": 85.3
+    },
+    "Luxembourg": {
+        "Total Population (thousands)": 665.0,
+        "Male Population (thousands)": 335.0,
+        "Female Population (thousands)": 330.0,
+        "Male Life Expectancy (years)": 80.6,
+        "Female Life Expectancy (years)": 83.8
+    },
+    "Monaco": {
+        "Total Population (thousands)": 39.0,
+        "Male Population (thousands)": 19.0,
+        "Female Population (thousands)": 20.0,
+        "Male Life Expectancy (years)": 84.4,
+        "Female Life Expectancy (years)": 88.5
+    },
+    "Netherlands": {
+        "Total Population (thousands)": 18093.0,
+        "Male Population (thousands)": 8986.0,
+        "Female Population (thousands)": 9106.0,
+        "Male Life Expectancy (years)": 80.5,
+        "Female Life Expectancy (years)": 83.7
+    },
+    "Switzerland": {
+        "Total Population (thousands)": 8871.0,
+        "Male Population (thousands)": 4405.0,
+        "Female Population (thousands)": 4465.0,
+        "Male Life Expectancy (years)": 82.0,
+        "Female Life Expectancy (years)": 85.8
+    },
+    "Anguilla": {
+        "Total Population (thousands)": 14.0,
+        "Male Population (thousands)": 7.0,
+        "Female Population (thousands)": 7.0,
+        "Male Life Expectancy (years)": 76.0,
+        "Female Life Expectancy (years)": 82.7
+    },
+    "Antigua and Barbuda": {
+        "Total Population (thousands)": 93.0,
+        "Male Population (thousands)": 44.0,
+        "Female Population (thousands)": 49.0,
+        "Male Life Expectancy (years)": 74.5,
+        "Female Life Expectancy (years)": 80.3
+    },
+    "Aruba": {
+        "Total Population (thousands)": 108.0,
+        "Male Population (thousands)": 51.0,
+        "Female Population (thousands)": 57.0,
+        "Male Life Expectancy (years)": 73.7,
+        "Female Life Expectancy (years)": 78.8
+    },
+    "Bahamas": {
+        "Total Population (thousands)": 399.0,
+        "Male Population (thousands)": 191.0,
+        "Female Population (thousands)": 209.0,
+        "Male Life Expectancy (years)": 70.9,
+        "Female Life Expectancy (years)": 78.2
+    },
+    "Barbados": {
+        "Total Population (thousands)": 282.0,
+        "Male Population (thousands)": 135.0,
+        "Female Population (thousands)": 147.0,
+        "Male Life Expectancy (years)": 73.6,
+        "Female Life Expectancy (years)": 78.6
+    },
+    "Bonaire, Sint Eustatius and Saba": {
+        "Total Population (thousands)": 30.0,
+        "Male Population (thousands)": 15.0,
+        "Female Population (thousands)": 14.0,
+        "Male Life Expectancy (years)": 75.2,
+        "Female Life Expectancy (years)": 80.2
+    },
+    "British Virgin Islands": {
+        "Total Population (thousands)": 39.0,
+        "Male Population (thousands)": 18.0,
+        "Female Population (thousands)": 21.0,
+        "Male Life Expectancy (years)": 74.5,
+        "Female Life Expectancy (years)": 80.0
+    },
+    "Cayman Islands": {
+        "Total Population (thousands)": 73.0,
+        "Male Population (thousands)": 37.0,
+        "Female Population (thousands)": 36.0,
+        "Male Life Expectancy (years)": 78.0,
+        "Female Life Expectancy (years)": 82.9
+    },
+    "Cuba": {
+        "Total Population (thousands)": 11020.0,
+        "Male Population (thousands)": 5439.0,
+        "Female Population (thousands)": 5581.0,
+        "Male Life Expectancy (years)": 75.7,
+        "Female Life Expectancy (years)": 80.5
+    },
+    "Curaçao": {
+        "Total Population (thousands)": 185.0,
+        "Male Population (thousands)": 88.0,
+        "Female Population (thousands)": 97.0,
+        "Male Life Expectancy (years)": 72.5,
+        "Female Life Expectancy (years)": 80.8
+    },
+    "Dominica": {
+        "Total Population (thousands)": 67.0,
+        "Male Population (thousands)": 33.0,
+        "Female Population (thousands)": 33.0,
+        "Male Life Expectancy (years)": 68.2,
+        "Female Life Expectancy (years)": 74.5
+    },
+    "Dominican Republic": {
+        "Total Population (thousands)": 11331.0,
+        "Male Population (thousands)": 5635.0,
+        "Female Population (thousands)": 5697.0,
+        "Male Life Expectancy (years)": 70.5,
+        "Female Life Expectancy (years)": 77.0
+    },
+    "Grenada": {
+        "Total Population (thousands)": 117.0,
+        "Male Population (thousands)": 59.0,
+        "Female Population (thousands)": 58.0,
+        "Male Life Expectancy (years)": 72.4,
+        "Female Life Expectancy (years)": 78.4
+    },
+    "Guadeloupe": {
+        "Total Population (thousands)": 377.0,
+        "Male Population (thousands)": 170.0,
+        "Female Population (thousands)": 206.0,
+        "Male Life Expectancy (years)": 78.1,
+        "Female Life Expectancy (years)": 85.5
+    },
+    "Haiti": {
+        "Total Population (thousands)": 11637.0,
+        "Male Population (thousands)": 5762.0,
+        "Female Population (thousands)": 5876.0,
+        "Male Life Expectancy (years)": 61.7,
+        "Female Life Expectancy (years)": 68.3
+    },
+    "Jamaica": {
+        "Total Population (thousands)": 2840.0,
+        "Male Population (thousands)": 1405.0,
+        "Female Population (thousands)": 1435.0,
+        "Male Life Expectancy (years)": 69.0,
+        "Female Life Expectancy (years)": 74.0
+    },
+    "Martinique": {
+        "Total Population (thousands)": 346.0,
+        "Male Population (thousands)": 157.0,
+        "Female Population (thousands)": 189.0,
+        "Male Life Expectancy (years)": 79.3,
+        "Female Life Expectancy (years)": 85.6
+    },
+    "Montserrat": {
+        "Total Population (thousands)": 4.0,
+        "Male Population (thousands)": 2.0,
+        "Female Population (thousands)": 2.0,
+        "Male Life Expectancy (years)": 74.1,
+        "Female Life Expectancy (years)": 78.8
+    },
+    "Puerto Rico": {
+        "Total Population (thousands)": 3242.0,
+        "Male Population (thousands)": 1528.0,
+        "Female Population (thousands)": 1714.0,
+        "Male Life Expectancy (years)": 78.0,
+        "Female Life Expectancy (years)": 85.2
+    },
+    "Saint Barthélemy": {
+        "Total Population (thousands)": 11.0,
+        "Male Population (thousands)": 5.0,
+        "Female Population (thousands)": 6.0,
+        "Male Life Expectancy (years)": 81.5,
+        "Female Life Expectancy (years)": 86.8
+    },
+    "Saint Kitts and Nevis": {
+        "Total Population (thousands)": 47.0,
+        "Male Population (thousands)": 22.0,
+        "Female Population (thousands)": 24.0,
+        "Male Life Expectancy (years)": 68.6,
+        "Female Life Expectancy (years)": 76.0
+    },
+    "Saint Lucia": {
+        "Total Population (thousands)": 179.0,
+        "Male Population (thousands)": 89.0,
+        "Female Population (thousands)": 91.0,
+        "Male Life Expectancy (years)": 69.3,
+        "Female Life Expectancy (years)": 76.3
+    },
+    "Saint Martin (French part)": {
+        "Total Population (thousands)": 28.0,
+        "Male Population (thousands)": 13.0,
+        "Female Population (thousands)": 15.0,
+        "Male Life Expectancy (years)": 76.8,
+        "Female Life Expectancy (years)": 83.8
+    },
+    "Saint Vincent and the Grenadines": {
+        "Total Population (thousands)": 101.0,
+        "Male Population (thousands)": 52.0,
+        "Female Population (thousands)": 50.0,
+        "Male Life Expectancy (years)": 68.7,
+        "Female Life Expectancy (years)": 74.3
+    },
+    "Sint Maarten (Dutch part)": {
+        "Total Population (thousands)": 43.0,
+        "Male Population (thousands)": 21.0,
+        "Female Population (thousands)": 22.0,
+        "Male Life Expectancy (years)": 73.7,
+        "Female Life Expectancy (years)": 79.5
+    },
+    "Trinidad and Tobago": {
+        "Total Population (thousands)": 1503.0,
+        "Male Population (thousands)": 743.0,
+        "Female Population (thousands)": 760.0,
+        "Male Life Expectancy (years)": 70.4,
+        "Female Life Expectancy (years)": 76.7
+    },
+    "Turks and Caicos Islands": {
+        "Total Population (thousands)": 46.0,
+        "Male Population (thousands)": 23.0,
+        "Female Population (thousands)": 23.0,
+        "Male Life Expectancy (years)": 75.8,
+        "Female Life Expectancy (years)": 80.3
+    },
+    "United States Virgin Islands": {
+        "Total Population (thousands)": 86.0,
+        "Male Population (thousands)": 41.0,
+        "Female Population (thousands)": 45.0,
+        "Male Life Expectancy (years)": 70.5,
+        "Female Life Expectancy (years)": 81.4
+    },
+    "Belize": {
+        "Total Population (thousands)": 411.0,
+        "Male Population (thousands)": 207.0,
+        "Female Population (thousands)": 204.0,
+        "Male Life Expectancy (years)": 70.9,
+        "Female Life Expectancy (years)": 76.5
+    },
+    "Costa Rica": {
+        "Total Population (thousands)": 5106.0,
+        "Male Population (thousands)": 2523.0,
+        "Female Population (thousands)": 2582.0,
+        "Male Life Expectancy (years)": 78.1,
+        "Female Life Expectancy (years)": 83.4
+    },
+    "El Salvador": {
+        "Total Population (thousands)": 6310.0,
+        "Male Population (thousands)": 2997.0,
+        "Female Population (thousands)": 3312.0,
+        "Male Life Expectancy (years)": 67.5,
+        "Female Life Expectancy (years)": 76.3
+    },
+    "Guatemala": {
+        "Total Population (thousands)": 18125.0,
+        "Male Population (thousands)": 8989.0,
+        "Female Population (thousands)": 9136.0,
+        "Male Life Expectancy (years)": 70.3,
+        "Female Life Expectancy (years)": 74.9
+    },
+    "Honduras": {
+        "Total Population (thousands)": 10645.0,
+        "Male Population (thousands)": 5360.0,
+        "Female Population (thousands)": 5285.0,
+        "Male Life Expectancy (years)": 70.3,
+        "Female Life Expectancy (years)": 75.5
+    },
+    "Mexico": {
+        "Total Population (thousands)": 129740.0,
+        "Male Population (thousands)": 62926.0,
+        "Female Population (thousands)": 66814.0,
+        "Male Life Expectancy (years)": 72.2,
+        "Female Life Expectancy (years)": 77.8
+    },
+    "Nicaragua": {
+        "Total Population (thousands)": 6824.0,
+        "Male Population (thousands)": 3356.0,
+        "Female Population (thousands)": 3468.0,
+        "Male Life Expectancy (years)": 72.3,
+        "Female Life Expectancy (years)": 77.4
+    },
+    "Panama": {
+        "Total Population (thousands)": 4459.0,
+        "Male Population (thousands)": 2230.0,
+        "Female Population (thousands)": 2229.0,
+        "Male Life Expectancy (years)": 76.7,
+        "Female Life Expectancy (years)": 82.6
+    },
+    "Argentina": {
+        "Total Population (thousands)": 45538.0,
+        "Male Population (thousands)": 22597.0,
+        "Female Population (thousands)": 22941.0,
+        "Male Life Expectancy (years)": 74.8,
+        "Female Life Expectancy (years)": 79.9
+    },
+    "Bolivia (Plurinational State of)": {
+        "Total Population (thousands)": 12244.0,
+        "Male Population (thousands)": 6136.0,
+        "Female Population (thousands)": 6108.0,
+        "Male Life Expectancy (years)": 66.1,
+        "Female Life Expectancy (years)": 71.1
+    },
+    "Brazil": {
+        "Total Population (thousands)": 211141.0,
+        "Male Population (thousands)": 103913.0,
+        "Female Population (thousands)": 107228.0,
+        "Male Life Expectancy (years)": 72.8,
+        "Female Life Expectancy (years)": 79.0
+    },
+    "Chile": {
+        "Total Population (thousands)": 19659.0,
+        "Male Population (thousands)": 9770.0,
+        "Female Population (thousands)": 9889.0,
+        "Male Life Expectancy (years)": 79.2,
+        "Female Life Expectancy (years)": 83.1
+    },
+    "Colombia": {
+        "Total Population (thousands)": 52321.0,
+        "Male Population (thousands)": 25819.0,
+        "Female Population (thousands)": 26503.0,
+        "Male Life Expectancy (years)": 75.0,
+        "Female Life Expectancy (years)": 80.5
+    },
+    "Ecuador": {
+        "Total Population (thousands)": 17980.0,
+        "Male Population (thousands)": 8965.0,
+        "Female Population (thousands)": 9015.0,
+        "Male Life Expectancy (years)": 74.7,
+        "Female Life Expectancy (years)": 80.1
+    },
+    "Falkland Islands (Malvinas)": {
+        "Total Population (thousands)": 3.0,
+        "Male Population (thousands)": 2.0,
+        "Female Population (thousands)": 2.0,
+        "Male Life Expectancy (years)": 77.2,
+        "Female Life Expectancy (years)": 81.2
+    },
+    "French Guiana": {
+        "Total Population (thousands)": 303.0,
+        "Male Population (thousands)": 146.0,
+        "Female Population (thousands)": 157.0,
+        "Male Life Expectancy (years)": 74.1,
+        "Female Life Expectancy (years)": 80.0
+    },
+    "Guyana": {
+        "Total Population (thousands)": 826.0,
+        "Male Population (thousands)": 402.0,
+        "Female Population (thousands)": 424.0,
+        "Male Life Expectancy (years)": 66.5,
+        "Female Life Expectancy (years)": 73.9
+    },
+    "Paraguay": {
+        "Total Population (thousands)": 6844.0,
+        "Male Population (thousands)": 3432.0,
+        "Female Population (thousands)": 3412.0,
+        "Male Life Expectancy (years)": 70.9,
+        "Female Life Expectancy (years)": 77.0
+    },
+    "Peru": {
+        "Total Population (thousands)": 33846.0,
+        "Male Population (thousands)": 16835.0,
+        "Female Population (thousands)": 17010.0,
+        "Male Life Expectancy (years)": 75.4,
+        "Female Life Expectancy (years)": 80.1
+    },
+    "Suriname": {
+        "Total Population (thousands)": 629.0,
+        "Male Population (thousands)": 314.0,
+        "Female Population (thousands)": 315.0,
+        "Male Life Expectancy (years)": 70.5,
+        "Female Life Expectancy (years)": 76.8
+    },
+    "Uruguay": {
+        "Total Population (thousands)": 3388.0,
+        "Male Population (thousands)": 1643.0,
+        "Female Population (thousands)": 1745.0,
+        "Male Life Expectancy (years)": 74.2,
+        "Female Life Expectancy (years)": 81.9
+    },
+    "Venezuela (Bolivarian Republic of)": {
+        "Total Population (thousands)": 28301.0,
+        "Male Population (thousands)": 13989.0,
+        "Female Population (thousands)": 14312.0,
+        "Male Life Expectancy (years)": 68.7,
+        "Female Life Expectancy (years)": 76.5
+    },
+    "Bermuda": {
+        "Total Population (thousands)": 65.0,
+        "Male Population (thousands)": 32.0,
+        "Female Population (thousands)": 33.0,
+        "Male Life Expectancy (years)": 78.9,
+        "Female Life Expectancy (years)": 85.7
+    },
+    "Canada": {
+        "Total Population (thousands)": 39299.0,
+        "Male Population (thousands)": 19516.0,
+        "Female Population (thousands)": 19784.0,
+        "Male Life Expectancy (years)": 80.4,
+        "Female Life Expectancy (years)": 84.8
+    },
+    "Greenland": {
+        "Total Population (thousands)": 56.0,
+        "Male Population (thousands)": 29.0,
+        "Female Population (thousands)": 26.0,
+        "Male Life Expectancy (years)": 68.1,
+        "Female Life Expectancy (years)": 72.4
+    },
+    "Saint Pierre and Miquelon": {
+        "Total Population (thousands)": 6.0,
+        "Male Population (thousands)": 3.0,
+        "Female Population (thousands)": 3.0,
+        "Male Life Expectancy (years)": 72.8,
+        "Female Life Expectancy (years)": 81.5
+    },
+    "United States of America": {
+        "Total Population (thousands)": 343477.0,
+        "Male Population (thousands)": 172589.0,
+        "Female Population (thousands)": 170889.0,
+        "Male Life Expectancy (years)": 76.9,
+        "Female Life Expectancy (years)": 81.8
+    },
+    "Australia": {
+        "Total Population (thousands)": 26451.0,
+        "Male Population (thousands)": 13124.0,
+        "Female Population (thousands)": 13327.0,
+        "Male Life Expectancy (years)": 82.1,
+        "Female Life Expectancy (years)": 85.7
+    },
+    "New Zealand": {
+        "Total Population (thousands)": 5173.0,
+        "Male Population (thousands)": 2570.0,
+        "Female Population (thousands)": 2603.0,
+        "Male Life Expectancy (years)": 80.4,
+        "Female Life Expectancy (years)": 83.8
+    },
+    "Fiji": {
+        "Total Population (thousands)": 924.0,
+        "Male Population (thousands)": 459.0,
+        "Female Population (thousands)": 465.0,
+        "Male Life Expectancy (years)": 65.3,
+        "Female Life Expectancy (years)": 69.4
+    },
+    "New Caledonia": {
+        "Total Population (thousands)": 290.0,
+        "Male Population (thousands)": 143.0,
+        "Female Population (thousands)": 147.0,
+        "Male Life Expectancy (years)": 76.3,
+        "Female Life Expectancy (years)": 81.3
+    },
+    "Papua New Guinea": {
+        "Total Population (thousands)": 10390.0,
+        "Male Population (thousands)": 5348.0,
+        "Female Population (thousands)": 5042.0,
+        "Male Life Expectancy (years)": 63.7,
+        "Female Life Expectancy (years)": 69.1
+    },
+    "Solomon Islands": {
+        "Total Population (thousands)": 800.0,
+        "Male Population (thousands)": 409.0,
+        "Female Population (thousands)": 391.0,
+        "Male Life Expectancy (years)": 69.2,
+        "Female Life Expectancy (years)": 72.0
+    },
+    "Vanuatu": {
+        "Total Population (thousands)": 320.0,
+        "Male Population (thousands)": 162.0,
+        "Female Population (thousands)": 159.0,
+        "Male Life Expectancy (years)": 69.4,
+        "Female Life Expectancy (years)": 73.9
+    },
+    "Guam": {
+        "Total Population (thousands)": 167.0,
+        "Male Population (thousands)": 84.0,
+        "Female Population (thousands)": 82.0,
+        "Male Life Expectancy (years)": 73.4,
+        "Female Life Expectancy (years)": 81.4
+    },
+    "Kiribati": {
+        "Total Population (thousands)": 133.0,
+        "Male Population (thousands)": 64.0,
+        "Female Population (thousands)": 68.0,
+        "Male Life Expectancy (years)": 64.6,
+        "Female Life Expectancy (years)": 68.2
+    },
+    "Marshall Islands": {
+        "Total Population (thousands)": 39.0,
+        "Male Population (thousands)": 20.0,
+        "Female Population (thousands)": 19.0,
+        "Male Life Expectancy (years)": 64.9,
+        "Female Life Expectancy (years)": 69.3
+    },
+    "Micronesia (Fed. States of)": {
+        "Total Population (thousands)": 113.0,
+        "Male Population (thousands)": 56.0,
+        "Female Population (thousands)": 57.0,
+        "Male Life Expectancy (years)": 63.5,
+        "Female Life Expectancy (years)": 71.1
+    },
+    "Nauru": {
+        "Total Population (thousands)": 12.0,
+        "Male Population (thousands)": 6.0,
+        "Female Population (thousands)": 6.0,
+        "Male Life Expectancy (years)": 60.3,
+        "Female Life Expectancy (years)": 64.0
+    },
+    "Northern Mariana Islands": {
+        "Total Population (thousands)": 45.0,
+        "Male Population (thousands)": 24.0,
+        "Female Population (thousands)": 21.0,
+        "Male Life Expectancy (years)": 77.1,
+        "Female Life Expectancy (years)": 80.7
+    },
+    "Palau": {
+        "Total Population (thousands)": 18.0,
+        "Male Population (thousands)": 10.0,
+        "Female Population (thousands)": 8.0,
+        "Male Life Expectancy (years)": 67.2,
+        "Female Life Expectancy (years)": 71.8
+    },
+    "American Samoa": {
+        "Total Population (thousands)": 48.0,
+        "Male Population (thousands)": 24.0,
+        "Female Population (thousands)": 24.0,
+        "Male Life Expectancy (years)": 70.2,
+        "Female Life Expectancy (years)": 75.8
+    },
+    "Cook Islands": {
+        "Total Population (thousands)": 14.0,
+        "Male Population (thousands)": 7.0,
+        "Female Population (thousands)": 7.0,
+        "Male Life Expectancy (years)": 71.9,
+        "Female Life Expectancy (years)": 79.0
+    },
+    "French Polynesia": {
+        "Total Population (thousands)": 281.0,
+        "Male Population (thousands)": 142.0,
+        "Female Population (thousands)": 139.0,
+        "Male Life Expectancy (years)": 81.8,
+        "Female Life Expectancy (years)": 86.5
+    },
+    "Niue": {
+        "Total Population (thousands)": 2.0,
+        "Male Population (thousands)": 1.0,
+        "Female Population (thousands)": 1.0,
+        "Male Life Expectancy (years)": 67.4,
+        "Female Life Expectancy (years)": 72.7
+    },
+    "Samoa": {
+        "Total Population (thousands)": 217.0,
+        "Male Population (thousands)": 109.0,
+        "Female Population (thousands)": 108.0,
+        "Male Life Expectancy (years)": 69.9,
+        "Female Life Expectancy (years)": 73.7
+    },
+    "Tokelau": {
+        "Total Population (thousands)": 2.0,
+        "Male Population (thousands)": 1.0,
+        "Female Population (thousands)": 1.0,
+        "Male Life Expectancy (years)": 75.0,
+        "Female Life Expectancy (years)": 78.9
+    },
+    "Tonga": {
+        "Total Population (thousands)": 105.0,
+        "Male Population (thousands)": 50.0,
+        "Female Population (thousands)": 55.0,
+        "Male Life Expectancy (years)": 69.4,
+        "Female Life Expectancy (years)": 76.4
+    },
+    "Tuvalu": {
+        "Total Population (thousands)": 10.0,
+        "Male Population (thousands)": 5.0,
+        "Female Population (thousands)": 5.0,
+        "Male Life Expectancy (years)": 63.8,
+        "Female Life Expectancy (years)": 70.7
+    },
+    "Wallis and Futuna Islands": {
+        "Total Population (thousands)": 11.0,
+        "Male Population (thousands)": 5.0,
+        "Female Population (thousands)": 6.0,
+        "Male Life Expectancy (years)": 77.7,
+        "Female Life Expectancy (years)": 79.6
+    }
+}
