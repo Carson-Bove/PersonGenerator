@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Population Simulator</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 50px; background-color: #f4f4f9; }
+        .card { background: white; padding: 20px; border-radius: 8px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1); min-width: 300px; }
+        button { padding: 10px 20px; font-size: 16px; cursor: pointer; background: #007bff; color: white; border: none; border-radius: 4px; }
+        button:hover { background: #0056b3; }
+        .stat { margin: 10px 0; font-size: 18px; }
+        .label { font-weight: bold; color: #555; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Person Simulator</h1>
+        <button onclick="runSimulation()">Generate Random Person</button>
+        
+        <div id="results" style="display:none; margin-top: 20px;">
+            <div class="stat"><span class="label">Generated Seed:</span> <span id="seed">-</span></div>
+            <hr>
+            <div class="stat"><span class="label">Country:</span> <span id="country">-</span></div>
+            <div class="stat"><span class="label">Gender:</span> <span id="gender">-</span></div>
+            <div class="stat"><span class="label">Age:</span> <span id="age">-</span></div>
+        </div>
+    </div>
+
+    <script>
+        async function runSimulation() {
+            const response = await fetch('/simulate');
+            const data = await response.json();
+            
+            document.getElementById('results').style.display = 'block';
+            document.getElementById('seed').innerText = data.seed.toLocaleString();
+            document.getElementById('country').innerText = data.country;
+            document.getElementById('gender').innerText = data.sex.charAt(0).toUpperCase() + data.sex.slice(1);
+            document.getElementById('age').innerText = data.age + " years old";
+        }
+    </script>
+</body>
+</html>
